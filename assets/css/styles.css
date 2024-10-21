@@ -1,2 +1,103 @@
 
 /* css */
+
+div{
+    position: fixed;
+  }
+  button{
+    position: fixed;
+  }
+  img{
+    position: fixed;
+  }
+  .leftPanel{
+    background-color: pink;
+    width: 150px;
+    height: 350px;
+    left: 50px;
+    top: 100px;
+  }
+  .rightPanel{
+    background-color: red;
+    width: 150px;
+    height: 350px;
+    left: 680px;
+    top: 100px;
+  }
+  .bottomPanel{
+    background-color: blue;
+    width: 678px;
+    height: 100px;
+    left: 100px;
+    top: 470px;
+  }
+  #black_fur{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    left: 60px;
+    top: 135px;
+  }
+  #orange_fur{
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+    left: 60px;
+    top: 235px;
+  }
+  #pink_fur{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    left: 60px;
+    top: 335px;
+  }
+  #gray_tail{
+    background-color: gray;
+    width: 50px;
+    height: 50px;
+    left: 690px;
+    top: 135px;
+  }
+  #cream_tail{
+    background-color: tan;
+    width: 50px;
+    height: 50px;
+    left: 690px;
+    top: 235px;
+  }
+  #pink_tail{
+    background-color: pink;
+    width: 50px;
+    height: 50px;
+    left: 690px;
+    top: 335px;
+  }
+  #window{
+    background-color: pink;
+    width: 50px;
+    height: 50px;
+    left: 110px;
+    top: 490px;
+  }
+  #fire{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    left: 310px;
+    top: 490px;
+  }
+  #books{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    left: 510px;
+    top: 490px;
+  }
+  .body{
+    position: fixed;
+    left: 375px;
+    top: 150px;
+  }
+  
+  
