@@ -21,15 +21,15 @@ div{
     background-color: red;
     width: 150px;
     height: 350px;
-    left: 680px;
+    left: 980px;
     top: 100px;
   }
   .bottomPanel{
     background-color: blue;
     width: 678px;
     height: 100px;
-    left: 100px;
-    top: 470px;
+    left: 250px;
+    top: 570px;
   }
   #black_fur{
     background-color: black;
@@ -56,47 +56,47 @@ div{
     background-color: gray;
     width: 50px;
     height: 50px;
-    left: 690px;
+    left: 1000px;
     top: 135px;
   }
   #cream_tail{
     background-color: tan;
     width: 50px;
     height: 50px;
-    left: 690px;
+    left: 1000px;
     top: 235px;
   }
   #pink_tail{
     background-color: pink;
     width: 50px;
     height: 50px;
-    left: 690px;
+    left: 1000px;
     top: 335px;
   }
   #window{
     background-color: pink;
     width: 50px;
     height: 50px;
-    left: 110px;
-    top: 490px;
+    left: 310px;
+    top: 590px;
   }
   #fire{
     background-color: red;
     width: 50px;
     height: 50px;
-    left: 310px;
-    top: 490px;
+    left: 510px;
+    top: 590px;
   }
   #books{
     background-color: green;
     width: 50px;
     height: 50px;
-    left: 510px;
-    top: 490px;
+    left: 710px;
+    top: 590px;
   }
   .body{
     position: fixed;
-    left: 375px;
+    left: 250px;
     top: 150px;
   }
   
