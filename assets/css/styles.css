@@ -4,100 +4,151 @@
 div{
     position: fixed;
   }
-  button{
+button{
     position: fixed;
-  }
-  img{
+  z-index: 5;
+
+}
+img{
     position: fixed;
-  }
-  .leftPanel{
-    background-color: pink;
+}
+.place{
+  position: fixed;
+  left: -50px;
+  top: -50px;
+}
+.leftPanel{
+    background-color: beige;
     width: 150px;
     height: 350px;
+    font-size: 20px;
     left: 50px;
     top: 100px;
-  }
-  .rightPanel{
-    background-color: red;
+}
+.rightPanel{
+    background-color: beige;
     width: 150px;
     height: 350px;
-    left: 980px;
+    left: 1025px;
+    font-size: 20px;
     top: 100px;
-  }
-  .bottomPanel{
-    background-color: blue;
+}
+.bottomPanel{
+    background-color: beige;
     width: 678px;
     height: 100px;
     left: 250px;
+    font-size: 20px;
     top: 570px;
-  }
-  #black_fur{
+}
+#backPanel{
+    left: 554px;
+    top: 10px;
+    color: beige;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+}
+#black_fur{
     background-color: black;
     width: 50px;
     height: 50px;
     left: 60px;
     top: 135px;
-  }
-  #orange_fur{
+}
+#orange_fur{
     background-color: orange;
     width: 50px;
     height: 50px;
     left: 60px;
     top: 235px;
-  }
-  #pink_fur{
-    background-color: red;
+}
+#pink_fur{
+    background-color: pink;
     width: 50px;
     height: 50px;
     left: 60px;
     top: 335px;
-  }
-  #gray_tail{
-    background-color: gray;
+}
+#fish_bed{
+    background-color: turquoise;
     width: 50px;
     height: 50px;
-    left: 1000px;
+    left: 1035px;
     top: 135px;
-  }
-  #cream_tail{
-    background-color: tan;
+}
+#dessert_bed{
+    background-color: brown;
     width: 50px;
     height: 50px;
-    left: 1000px;
+    left: 1035px;
     top: 235px;
-  }
-  #pink_tail{
-    background-color: pink;
+}
+#blueberry_bed{
+    background-color: plum;
     width: 50px;
     height: 50px;
-    left: 1000px;
+    left: 1035px;
     top: 335px;
-  }
-  #window{
-    background-color: pink;
+}
+#window{
+    background-color: turquoise;
     width: 50px;
     height: 50px;
     left: 310px;
     top: 590px;
-  }
-  #fire{
-    background-color: red;
+}
+#fire{
+    background-color: orange;
     width: 50px;
     height: 50px;
     left: 510px;
     top: 590px;
-  }
-  #books{
+}
+#books{
     background-color: green;
     width: 50px;
     height: 50px;
     left: 710px;
     top: 590px;
-  }
-  .body{
+}
+.body{
     position: fixed;
     left: 250px;
-    top: 150px;
-  }
-  
+    top: 80px;
+}
+.bed{
+    position: fixed;
+    left: 250px;
+    top: 80px;
+}
+#rand{
+  position: fixed;
+  background-color: yellow;
+  width: 50px;
+  height: 50px;
+  top: 30px;
+  left: 50px;
+}
+#timer{
+    top: 50px;
+    left: 500px;
+    width: 200px;
+    height: 10px;
+    position: fixed;
+}
+#timerSubmit{
+    left: 725px;
+    top: 30px;
+    position: fixed;
+
+}
+#countdown{
+    left: 554px;
+    top: -50px;
+    font-size: 50px;
+    color: white;
+    position: fixed;
+}
+
   
